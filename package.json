@@ -32,34 +32,34 @@
     "lodash.clonedeep": "^4.5.0",
     "register-service-worker": "^1.0.0",
     "reveal.js": "^3.8.0",
-    "vditor": "4.0.0",  // 更新版本
-    "vue": "^2.6.14",  // 更新版本
-    "vue-meta": "^2.4.0",  // 更新版本
-    "vue-router": "^3.5.2"  // 更新版本
+    "vditor": "4.0.0",
+    "vue": "^2.6.14",
+    "vue-meta": "^2.4.0",
+    "vue-router": "^3.5.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.5.0",  // 更新版本
-    "@vue/cli-plugin-eslint": "^4.5.0",  // 更新版本
-    "@vue/cli-plugin-pwa": "^4.5.0",  // 更新版本
-    "@vue/cli-plugin-unit-jest": "^4.5.0",  // 更新版本
-    "@vue/cli-service": "^4.5.0",  // 更新版本
+    "@vue/cli-plugin-babel": "^4.5.0",
+    "@vue/cli-plugin-eslint": "^4.5.0",
+    "@vue/cli-plugin-pwa": "^4.5.0",
+    "@vue/cli-plugin-unit-jest": "^4.5.0",
+    "@vue/cli-service": "^4.5.0",
     "@vue/test-utils": "^1.0.0-beta.29",
-    "babel-core": "^7.0.0",  // 更新版本
+    "babel-core": "^7.0.0",
     "css-loader": "^3.4.2",
-    "eslint-config-prettier": "^8.3.0",  // 更新版本
-    "eslint-plugin-prettier": "^3.4.0",  // 更新版本
-    "eslint-plugin-vue": "^7.0.0",  // 更新版本
-    "husky": "^5.0.0",  // 更新版本
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.0.0",
+    "husky": "^5.0.0",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
-    "lint-staged": "^10.5.0",  // 更新版本
+    "lint-staged": "^10.5.0",
     "onchange": "^6.1.0",
     "prettier-eslint-cli": "^5.0.0",
     "size-plugin": "^2.0.0",
     "svg-sprite-loader": "^4.1.6",
     "svgo-loader": "2.2.1",
     "vue-svg-loader": "^0.12.0",
-    "vue-template-compiler": "^2.6.14",  // 更新版本
+    "vue-template-compiler": "^2.6.14",
     "webpack-bundle-analyzer": "3.5.0"
   },
   "babel": {
